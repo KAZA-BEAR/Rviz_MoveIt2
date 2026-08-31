@@ -23,7 +23,6 @@ Run the move group interface in Terminal 2 after sourcing:
 
 ```bash
 source install/setup.bash
-
 ros2 run my_robot_commander_cpp test_moveit
 ```
 
